@@ -1,0 +1,24 @@
+/**
+* styling.css
+* Created by Karlina Ray Beringer.
+* Updated on 20 January 2018.
+* Custom cascading style sheet HTML element styling.
+*/
+
+#ideaBox {
+	max-width: 600px;
+	padding: 3%;
+}
+
+#redBox {
+	background:red; 
+	color:white; 
+	max-width:300px;
+
+	/** rounded corners */
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+}
+
